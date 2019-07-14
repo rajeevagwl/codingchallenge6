@@ -24,5 +24,5 @@ const addends = findAddends(input, sum);
 console.log(addends);
 
 if (!addends.length) {
-  console.log(`Input array does not contain addends for target ${sum}.`);
+  console.log(`Input array doesn't contain addends for target ${sum}.`);
 }
