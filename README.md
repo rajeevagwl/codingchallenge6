@@ -1,4 +1,4 @@
-# Coding_Challenge_6
+# Coding Challenge 6
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer.
 
